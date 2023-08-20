@@ -16,10 +16,10 @@
 -Deploy em servidor Google Cloud plataform <br>
 
 <h2> Capturas de telas: </h2>
-![image](https://github.com/LordRyanII/CadastroDeUsuarios_com_React.js/assets/102631987/de9cde77-a3d8-4959-8444-7f0fdd40842d)
-![image](https://github.com/LordRyanII/CadastroDeUsuarios_com_React.js/assets/102631987/d17b6eaa-87d0-4a83-a0e1-266f989e9331)
-![image](https://github.com/LordRyanII/CadastroDeUsuarios_com_React.js/assets/102631987/a30da033-c9fe-4bcb-b5ff-d799276185f0)
-![image](https://github.com/LordRyanII/CadastroDeUsuarios_com_React.js/assets/102631987/f575afb8-fac7-4822-a7ad-f6291cc8bb2e)
+![image](https://github.com/LordRyanII/CadastroDeUsuarios_com_React.js/assets/102631987/de9cde77-a3d8-4959-8444-7f0fdd40842d) <br>
+![image](https://github.com/LordRyanII/CadastroDeUsuarios_com_React.js/assets/102631987/d17b6eaa-87d0-4a83-a0e1-266f989e9331) <br>
+![image](https://github.com/LordRyanII/CadastroDeUsuarios_com_React.js/assets/102631987/a30da033-c9fe-4bcb-b5ff-d799276185f0) <br>
+![image](https://github.com/LordRyanII/CadastroDeUsuarios_com_React.js/assets/102631987/f575afb8-fac7-4822-a7ad-f6291cc8bb2e) <br>
 <h2> Instalação:</h2>
 -No vsCode, abra o terminal
 -Vá até a pasta frontend, digitando: cd frontend
