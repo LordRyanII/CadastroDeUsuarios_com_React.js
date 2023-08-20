@@ -16,7 +16,7 @@
 -Deploy em servidor Google Cloud plataform <br>
 
 <h2> Capturas de telas: </h2>
-<https://github.com/LordRyanII/CadastroDeUsuarios_com_React.js/assets/102631987/0aa80823-66da-4eba-a64f-6694038907e6>
+[](https://github.com/LordRyanII/CadastroDeUsuarios_com_React.js/assets/102631987/0aa80823-66da-4eba-a64f-6694038907e6)
  <br>
 
 <br>
