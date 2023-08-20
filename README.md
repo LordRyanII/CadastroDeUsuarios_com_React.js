@@ -3,15 +3,14 @@
 <br>
 -Tecnologias utilizadas:<br>
 <ul>
-      <li>    React.js </li>
-      <li>    React-router </li>
-      <li>    Bootstrap 5 </li>
-      <li>    Html5 e css3 </li>
-      <li>    Json-server</li>
-      <li>    Axios  </li>
+      <li>    React.js;</li>
+      <li>    React-router; </li>
+      <li>    Bootstrap 5; </li>
+      <li>    Html5 e css3; </li>
+      <li>    Json-server;</li>
+      <li>    Axios;  </li>
 </ul>
 <br>     
 <h2>Futuras melhorias#</h2> 
-<br>
--Integração com banco de dados SQL ou MongoDb <br>
+-Integração com banco de dados SQL ou MongoDb; <br>
 -Deploy em servidor Google Cloud plataform <br>
