@@ -21,12 +21,12 @@
 
 <br>
 <h2> Instalação:</h2>
--No vsCode, abra o terminal
--Vá até a pasta frontend, digitando: cd frontend
--Após dê npm i
-- Logo após digite: npm start
--Repita o mesmo procedimento na pasta backend
--Acesse com o cd backend
--Digite: npm i
--Em seguida: npm start
+-No vsCode, abra o terminal<br>
+-Vá até a pasta frontend, digite: cd frontend<br>
+-Após dê npm i<br>
+- Logo após digite: npm start<br>
+-Repita o mesmo procedimento na pasta backend<br>
+-Acesse com o cd backend<br>
+-Digite: npm i<br>
+-Em seguida: npm start<br><br>
 Pronto!;)
