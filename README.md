@@ -11,6 +11,7 @@
       <li>    Axios  </li>
 </ul>
 <br>     
-#Futuras melhorias# <br>
+<h2>Futuras melhorias#</h2> 
+<br>
 -Integração com banco de dados SQL ou MongoDb <br>
 -Deploy em servidor Google Cloud plataform <br>
