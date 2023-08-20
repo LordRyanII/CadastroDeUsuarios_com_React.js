@@ -16,8 +16,10 @@
 -Deploy em servidor Google Cloud plataform <br>
 
 <h2> Capturas de telas: </h2>
-![image](https://github.com/LordRyanII/CadastroDeUsuarios_com_React.js/assets/102631987/aac3bbe0-23ea-4fda-9817-5996cb91ebeb) <br>
+![image](https://github.com/LordRyanII/CadastroDeUsuarios_com_React.js/assets/102631987/0aa80823-66da-4eba-a64f-6694038907e6)
+ <br>
 
+<br>
 <h2> Instalação:</h2>
 -No vsCode, abra o terminal
 -Vá até a pasta frontend, digitando: cd frontend
